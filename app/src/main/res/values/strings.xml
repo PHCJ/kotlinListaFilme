@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListaFilme</string>
+    <string name="user">Usuario</string>
+    <string name="password">Senha</string>
+    <string name="acess">Acessar</string>
+    <string name="create">Criar</string>
+</resources>

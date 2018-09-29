@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "954655825362",
+    "firebase_url": "https://listafilme-fc342.firebaseio.com",
+    "project_id": "listafilme-fc342",
+    "storage_bucket": "listafilme-fc342.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954655825362:android:cd43f2373fe1a61a",
+        "android_client_info": {
+          "package_name": "com.example.aluno.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954655825362-abujgk4qr2v6muhqufmnaijac5khuuf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNMu1K5oaYImXy6za4SX4S72lkHEVfKKQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
